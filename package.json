@@ -1,0 +1,22 @@
+{
+  "name": "cypress-training",
+  "version": "1.0.0",
+  "description": "Experimentations with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logic-fabric/cypress-training.git"
+  },
+  "author": "Lowic Mangin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logic-fabric/cypress-training/issues"
+  },
+  "homepage": "https://github.com/logic-fabric/cypress-training#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
